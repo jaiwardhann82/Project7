@@ -2,28 +2,28 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-02-05T02:09:13 PST" name="Suite" finished-at="2022-02-05T02:09:29 PST" duration-ms="15554">
+  <suite started-at="2022-02-10T20:55:37 PST" name="Suite" finished-at="2022-02-10T20:55:51 PST" duration-ms="13561">
     <groups>
     </groups>
-    <test started-at="2022-02-05T02:09:13 PST" name="Test" finished-at="2022-02-05T02:09:29 PST" duration-ms="15554">
+    <test started-at="2022-02-10T20:55:37 PST" name="Test" finished-at="2022-02-10T20:55:51 PST" duration-ms="13561">
       <class name="Assignment.Project6.NewTest">
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:Assignment.Project6.NewTest@1cbb87f3]" started-at="2022-02-05T02:09:13 PST" name="beforeTest" finished-at="2022-02-05T02:09:17 PST" duration-ms="3340" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:Assignment.Project6.NewTest@5ace1ed4]" started-at="2022-02-10T20:55:37 PST" name="beforeTest" finished-at="2022-02-10T20:55:42 PST" duration-ms="4916" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="BankUserLogin()[pri:0, instance:Assignment.Project6.NewTest@1cbb87f3]" started-at="2022-02-05T02:09:17 PST" name="BankUserLogin" finished-at="2022-02-05T02:09:18 PST" duration-ms="1206" status="PASS">
+        <test-method signature="BankUserLogin()[pri:0, instance:Assignment.Project6.NewTest@5ace1ed4]" started-at="2022-02-10T20:55:42 PST" name="BankUserLogin" finished-at="2022-02-10T20:55:44 PST" duration-ms="1423" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BankUserLogin -->
-        <test-method signature="CustomerRegistration()[pri:0, instance:Assignment.Project6.NewTest@1cbb87f3]" started-at="2022-02-05T02:09:18 PST" name="CustomerRegistration" finished-at="2022-02-05T02:09:24 PST" duration-ms="5524" status="PASS">
+        <test-method signature="CustomerRegistration()[pri:0, instance:Assignment.Project6.NewTest@5ace1ed4]" started-at="2022-02-10T20:55:44 PST" name="CustomerRegistration" finished-at="2022-02-10T20:55:47 PST" duration-ms="3571" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CustomerRegistration -->
-        <test-method signature="CustomerTransaction()[pri:0, instance:Assignment.Project6.NewTest@1cbb87f3]" started-at="2022-02-05T02:09:24 PST" name="CustomerTransaction" finished-at="2022-02-05T02:09:28 PST" duration-ms="4443" status="PASS">
+        <test-method signature="CustomerTransaction()[pri:0, instance:Assignment.Project6.NewTest@5ace1ed4]" started-at="2022-02-10T20:55:47 PST" name="CustomerTransaction" finished-at="2022-02-10T20:55:50 PST" duration-ms="2603" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CustomerTransaction -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:Assignment.Project6.NewTest@1cbb87f3]" started-at="2022-02-05T02:09:28 PST" name="afterTest" finished-at="2022-02-05T02:09:29 PST" duration-ms="953" status="PASS">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:Assignment.Project6.NewTest@5ace1ed4]" started-at="2022-02-10T20:55:50 PST" name="afterTest" finished-at="2022-02-10T20:55:51 PST" duration-ms="955" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
